@@ -18,7 +18,7 @@ It uses **Doubly Linked Lists** to store and process individual digits, allowing
 ## Technologies Used
 - C Programming
 - Data Structures
-- Doubly Linked Lists
+- Linked Lists
 - Pointers
 - Dynamic Memory Allocation
 - Command-Line Arguments
